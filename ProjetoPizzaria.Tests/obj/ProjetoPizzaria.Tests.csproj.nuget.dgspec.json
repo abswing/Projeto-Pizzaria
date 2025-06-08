@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PC\\Documents\\Projeto-Pizzaria\\ProjetoPizzaria.Tests\\ProjetoPizzaria.Tests.csproj": {}
+    "C:\\Users\\anton\\OneDrive\\Documentos\\Projeto-Pizzaria\\ProjetoPizzaria.Tests\\ProjetoPizzaria.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PC\\Documents\\Projeto-Pizzaria\\Pizzaria.csproj": {
+    "C:\\Users\\anton\\OneDrive\\Documentos\\Projeto-Pizzaria\\Pizzaria.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC\\Documents\\Projeto-Pizzaria\\Pizzaria.csproj",
+        "projectUniqueName": "C:\\Users\\anton\\OneDrive\\Documentos\\Projeto-Pizzaria\\Pizzaria.csproj",
         "projectName": "Pizzaria",
-        "projectPath": "C:\\Users\\PC\\Documents\\Projeto-Pizzaria\\Pizzaria.csproj",
-        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC\\Documents\\Projeto-Pizzaria\\obj\\",
+        "projectPath": "C:\\Users\\anton\\OneDrive\\Documentos\\Projeto-Pizzaria\\Pizzaria.csproj",
+        "packagesPath": "C:\\Users\\anton\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\anton\\OneDrive\\Documentos\\Projeto-Pizzaria\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\anton\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -62,17 +62,17 @@
         }
       }
     },
-    "C:\\Users\\PC\\Documents\\Projeto-Pizzaria\\ProjetoPizzaria.Tests\\ProjetoPizzaria.Tests.csproj": {
+    "C:\\Users\\anton\\OneDrive\\Documentos\\Projeto-Pizzaria\\ProjetoPizzaria.Tests\\ProjetoPizzaria.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC\\Documents\\Projeto-Pizzaria\\ProjetoPizzaria.Tests\\ProjetoPizzaria.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\anton\\OneDrive\\Documentos\\Projeto-Pizzaria\\ProjetoPizzaria.Tests\\ProjetoPizzaria.Tests.csproj",
         "projectName": "ProjetoPizzaria.Tests",
-        "projectPath": "C:\\Users\\PC\\Documents\\Projeto-Pizzaria\\ProjetoPizzaria.Tests\\ProjetoPizzaria.Tests.csproj",
-        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC\\Documents\\Projeto-Pizzaria\\ProjetoPizzaria.Tests\\obj\\",
+        "projectPath": "C:\\Users\\anton\\OneDrive\\Documentos\\Projeto-Pizzaria\\ProjetoPizzaria.Tests\\ProjetoPizzaria.Tests.csproj",
+        "packagesPath": "C:\\Users\\anton\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\anton\\OneDrive\\Documentos\\Projeto-Pizzaria\\ProjetoPizzaria.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\anton\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -84,8 +84,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\PC\\Documents\\Projeto-Pizzaria\\Pizzaria.csproj": {
-                "projectPath": "C:\\Users\\PC\\Documents\\Projeto-Pizzaria\\Pizzaria.csproj"
+              "C:\\Users\\anton\\OneDrive\\Documentos\\Projeto-Pizzaria\\Pizzaria.csproj": {
+                "projectPath": "C:\\Users\\anton\\OneDrive\\Documentos\\Projeto-Pizzaria\\Pizzaria.csproj"
               }
             }
           }
@@ -121,7 +121,7 @@
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[2.5.7, )"
+              "version": "[3.1.1, )"
             }
           },
           "imports": [

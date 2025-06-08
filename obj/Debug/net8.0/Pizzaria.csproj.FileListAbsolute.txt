@@ -1,3 +1,16 @@
 C:\Users\PC\Documents\Projeto-Pizzaria\obj\Debug\net8.0\Pizzaria.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\PC\Documents\Projeto-Pizzaria\obj\Debug\net8.0\Pizzaria.csproj.CoreCompileInputs.cache
 C:\Users\PC\Documents\Projeto-Pizzaria\obj\Debug\net8.0\Pizzaria.sourcelink.json
+C:\Users\anton\OneDrive\Documentos\Projeto-Pizzaria\bin\Debug\net8.0\Pizzaria.exe
+C:\Users\anton\OneDrive\Documentos\Projeto-Pizzaria\bin\Debug\net8.0\Pizzaria.deps.json
+C:\Users\anton\OneDrive\Documentos\Projeto-Pizzaria\bin\Debug\net8.0\Pizzaria.runtimeconfig.json
+C:\Users\anton\OneDrive\Documentos\Projeto-Pizzaria\bin\Debug\net8.0\Pizzaria.dll
+C:\Users\anton\OneDrive\Documentos\Projeto-Pizzaria\bin\Debug\net8.0\Pizzaria.pdb
+C:\Users\anton\OneDrive\Documentos\Projeto-Pizzaria\obj\Debug\net8.0\Pizzaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\OneDrive\Documentos\Projeto-Pizzaria\obj\Debug\net8.0\Pizzaria.csproj.CoreCompileInputs.cache
+C:\Users\anton\OneDrive\Documentos\Projeto-Pizzaria\obj\Debug\net8.0\Pizzaria.sourcelink.json
+C:\Users\anton\OneDrive\Documentos\Projeto-Pizzaria\obj\Debug\net8.0\Pizzaria.dll
+C:\Users\anton\OneDrive\Documentos\Projeto-Pizzaria\obj\Debug\net8.0\refint\Pizzaria.dll
+C:\Users\anton\OneDrive\Documentos\Projeto-Pizzaria\obj\Debug\net8.0\Pizzaria.pdb
+C:\Users\anton\OneDrive\Documentos\Projeto-Pizzaria\obj\Debug\net8.0\Pizzaria.genruntimeconfig.cache
+C:\Users\anton\OneDrive\Documentos\Projeto-Pizzaria\obj\Debug\net8.0\ref\Pizzaria.dll

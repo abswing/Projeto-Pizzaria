@@ -400,16 +400,16 @@
           }
         }
       },
-      "xunit.runner.visualstudio/2.5.7": {
+      "xunit.runner.visualstudio/3.1.1": {
         "type": "package",
         "compile": {
-          "lib/net6.0/_._": {}
+          "lib/net8.0/_._": {}
         },
         "runtime": {
-          "lib/net6.0/_._": {}
+          "lib/net8.0/_._": {}
         },
         "build": {
-          "build/net6.0/xunit.runner.visualstudio.props": {}
+          "build/net8.0/xunit.runner.visualstudio.props": {}
         }
       },
       "Pizzaria/1.0.0": {
@@ -918,28 +918,24 @@
         "xunit.extensibility.execution.nuspec"
       ]
     },
-    "xunit.runner.visualstudio/2.5.7": {
-      "sha512": "31Rl7dBJriX0DNwZfDp8gqFOPsiM0c9kqpcH/HvNi9vDp+K7Ydf42H7mVIvYT918Ywzn1ymLg1c4DDC6iU754w==",
+    "xunit.runner.visualstudio/3.1.1": {
+      "sha512": "gNu2zhnuwjq5vQlU4S7yK/lfaKZDLmtcu+vTjnhfTlMAUYn+Hmgu8IIX0UCwWepYkk+Szx03DHx1bDnc9Fd+9w==",
       "type": "package",
-      "path": "xunit.runner.visualstudio/2.5.7",
+      "path": "xunit.runner.visualstudio/3.1.1",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "_content/README.md",
         "_content/logo-128-transparent.png",
-        "build/net462/xunit.abstractions.dll",
-        "build/net462/xunit.runner.reporters.net452.dll",
-        "build/net462/xunit.runner.utility.net452.dll",
-        "build/net462/xunit.runner.visualstudio.props",
-        "build/net462/xunit.runner.visualstudio.testadapter.dll",
-        "build/net6.0/xunit.abstractions.dll",
-        "build/net6.0/xunit.runner.reporters.netcoreapp10.dll",
-        "build/net6.0/xunit.runner.utility.netcoreapp10.dll",
-        "build/net6.0/xunit.runner.visualstudio.props",
-        "build/net6.0/xunit.runner.visualstudio.testadapter.dll",
-        "lib/net462/_._",
-        "lib/net6.0/_._",
-        "xunit.runner.visualstudio.2.5.7.nupkg.sha512",
+        "build/net472/xunit.abstractions.dll",
+        "build/net472/xunit.runner.visualstudio.props",
+        "build/net472/xunit.runner.visualstudio.testadapter.dll",
+        "build/net8.0/xunit.abstractions.dll",
+        "build/net8.0/xunit.runner.visualstudio.props",
+        "build/net8.0/xunit.runner.visualstudio.testadapter.dll",
+        "lib/net472/_._",
+        "lib/net8.0/_._",
+        "xunit.runner.visualstudio.3.1.1.nupkg.sha512",
         "xunit.runner.visualstudio.nuspec"
       ]
     },
@@ -955,23 +951,23 @@
       "Pizzaria >= 1.0.0",
       "coverlet.collector >= 6.0.2",
       "xunit >= 2.9.3",
-      "xunit.runner.visualstudio >= 2.5.7"
+      "xunit.runner.visualstudio >= 3.1.1"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\PC\\.nuget\\packages\\": {}
+    "C:\\Users\\anton\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PC\\Documents\\Projeto-Pizzaria\\ProjetoPizzaria.Tests\\ProjetoPizzaria.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\anton\\OneDrive\\Documentos\\Projeto-Pizzaria\\ProjetoPizzaria.Tests\\ProjetoPizzaria.Tests.csproj",
       "projectName": "ProjetoPizzaria.Tests",
-      "projectPath": "C:\\Users\\PC\\Documents\\Projeto-Pizzaria\\ProjetoPizzaria.Tests\\ProjetoPizzaria.Tests.csproj",
-      "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PC\\Documents\\Projeto-Pizzaria\\ProjetoPizzaria.Tests\\obj\\",
+      "projectPath": "C:\\Users\\anton\\OneDrive\\Documentos\\Projeto-Pizzaria\\ProjetoPizzaria.Tests\\ProjetoPizzaria.Tests.csproj",
+      "packagesPath": "C:\\Users\\anton\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\anton\\OneDrive\\Documentos\\Projeto-Pizzaria\\ProjetoPizzaria.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\anton\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -983,8 +979,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\PC\\Documents\\Projeto-Pizzaria\\Pizzaria.csproj": {
-              "projectPath": "C:\\Users\\PC\\Documents\\Projeto-Pizzaria\\Pizzaria.csproj"
+            "C:\\Users\\anton\\OneDrive\\Documentos\\Projeto-Pizzaria\\Pizzaria.csproj": {
+              "projectPath": "C:\\Users\\anton\\OneDrive\\Documentos\\Projeto-Pizzaria\\Pizzaria.csproj"
             }
           }
         }
@@ -1020,7 +1016,7 @@
             "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
             "suppressParent": "All",
             "target": "Package",
-            "version": "[2.5.7, )"
+            "version": "[3.1.1, )"
           }
         },
         "imports": [

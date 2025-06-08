@@ -1,4 +1,6 @@
-namespace Pizza
+using PizzasNamespace;
+
+namespace PizzaMussarelaNamespace
 {
     public class PizzaMussarela : Pizza
     {

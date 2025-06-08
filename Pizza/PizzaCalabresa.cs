@@ -1,7 +1,7 @@
-namespace Pizza
+using PizzasNamespace;
+
+namespace PizzaCalabresaNamespace
 {
-    // Classe que representa uma pizza de calabresa
-    // Esta classe herda da classe Pizza e define os detalhes específicos da pizza de calabresa
     public class PizzaCalabresa : Pizza
     {
         public PizzaCalabresa()

@@ -1,0 +1,3 @@
+C:\Users\PC\Documents\Projeto-Pizzaria\obj\Debug\net8.0\Pizzaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\Projeto-Pizzaria\obj\Debug\net8.0\Pizzaria.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Projeto-Pizzaria\obj\Debug\net8.0\Pizzaria.sourcelink.json

@@ -1,9 +1,9 @@
-using Pizza;
+using PizzasNamespace;
 
-namespace Factory
+namespace PizzaFactoryNamespace
 {
     public abstract class PizzaFactory
     {
-        public abstract Pizza.Pizza CriarPizza();
+        public abstract Pizza CriaPizza();
     }
 }

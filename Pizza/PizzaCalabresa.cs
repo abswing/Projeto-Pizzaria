@@ -12,5 +12,10 @@ namespace PizzaCalabresaNamespace
             ingredientes.Add("Queijo mussarela");
             ingredientes.Add("Calabresa");
         }
+
+        public override decimal Preco()
+        {
+            return 40.00m;
+        }
     }
 }

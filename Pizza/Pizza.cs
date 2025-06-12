@@ -1,4 +1,3 @@
-
 using System.Text;
 using System.Collections;
 
@@ -11,7 +10,8 @@ namespace PizzasNamespace
         protected string? molho;
         protected ArrayList ingredientes = new ArrayList();
 
-        public string Preparar()
+        public abstract decimal Preco();
+        public virtual string Preparar()
         {
             StringBuilder sb = new StringBuilder();
             sb.AppendLine("Preparando a pizza " + Nome + "...");

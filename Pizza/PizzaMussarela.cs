@@ -12,5 +12,10 @@ namespace PizzaMussarelaNamespace
             ingredientes.Add("Queijo mussarela");
             ingredientes.Add("Orégano");
         }
+
+        public override decimal Preco()
+        {
+            return 35.00m;
+        }
     }
 }

@@ -29,13 +29,13 @@ public class DecoratorAndPagamentoTests
     [Fact]
     public void PagamentoAdapter_DeveChamarServicoPagamento()
     {
-        // Arrange
+        
         var servicoPagamento = new PagamentoServicoFake();
         Pagamentos pagamento = new PagamentoAdapter(servicoPagamento);
         decimal valor = 42.50m;
-        // Act
+        
         pagamento.Pagar(valor.ToString());
-        // Assert
+        
         Assert.True(servicoPagamento.PagamentoEfetuado);
         Assert.Equal(valor.ToString(), servicoPagamento.ValorPago);
     }

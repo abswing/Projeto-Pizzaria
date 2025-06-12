@@ -2,7 +2,7 @@ using PizzasNamespace;
 
 namespace PizzasDecoratorNamespace
 {
-    // Decorator base para ingredientes extras
+    
     public abstract class IngredienteDecorator : Pizza
     {
         protected Pizza pizza;
